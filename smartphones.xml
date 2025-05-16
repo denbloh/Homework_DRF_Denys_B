@@ -1,0 +1,88 @@
+<smartphones>
+  <smartphone>
+    <brand>Apple</brand>
+    <model>iPhone 15 Pro</model>
+    <os>iOS 17</os>
+    <screen>
+      <size_inches>6.1</size_inches>
+      <resolution>2556x1179</resolution>
+      <type>OLED</type>
+    </screen>
+    <camera>
+      <rear>48MP + 12MP + 12MP</rear>
+      <front>12MP</front>
+    </camera>
+    <battery>
+      <capacity_mAh>3274</capacity_mAh>
+      <fast_charging>true</fast_charging>
+    </battery>
+    <storage>
+      <option>128GB</option>
+      <option>256GB</option>
+      <option>512GB</option>
+      <option>1TB</option>
+    </storage>
+    <chipset>A17 Pro</chipset>
+    <release_date>2023-09-22</release_date>
+    <has_5g>true</has_5g>
+    <water_resistance>IP68</water_resistance>
+    <price_usd>999</price_usd>
+  </smartphone>
+
+  <smartphone>
+    <brand>Samsung</brand>
+    <model>Galaxy S24 Ultra</model>
+    <os>Android 14</os>
+    <screen>
+      <size_inches>6.8</size_inches>
+      <resolution>3088x1440</resolution>
+      <type>Dynamic AMOLED 2X</type>
+    </screen>
+    <camera>
+      <rear>200MP + 12MP + 10MP + 10MP</rear>
+      <front>12MP</front>
+    </camera>
+    <battery>
+      <capacity_mAh>5000</capacity_mAh>
+      <fast_charging>true</fast_charging>
+    </battery>
+    <storage>
+      <option>256GB</option>
+      <option>512GB</option>
+      <option>1TB</option>
+    </storage>
+    <chipset>Snapdragon 8 Gen 3</chipset>
+    <release_date>2024-01-17</release_date>
+    <has_5g>true</has_5g>
+    <water_resistance>IP68</water_resistance>
+    <price_usd>1199</price_usd>
+  </smartphone>
+
+  <smartphone>
+    <brand>OnePlus</brand>
+    <model>OnePlus 13</model>
+    <os>Android 15 (OxygenOS)</os>
+    <screen>
+      <size_inches>6.7</size_inches>
+      <resolution>3168x1440</resolution>
+      <type>AMOLED LTPO</type>
+    </screen>
+    <camera>
+      <rear>50MP + 48MP + 64MP</rear>
+      <front>32MP</front>
+    </camera>
+    <battery>
+      <capacity_mAh>5400</capacity_mAh>
+      <fast_charging>true</fast_charging>
+    </battery>
+    <storage>
+      <option>256GB</option>
+      <option>512GB</option>
+    </storage>
+    <chipset>Snapdragon 8 Gen 4</chipset>
+    <release_date>2025-08-01</release_date>
+    <has_5g>true</has_5g>
+    <water_resistance>IP65</water_resistance>
+    <price_usd>899</price_usd>
+  </smartphone>
+</smartphones>
