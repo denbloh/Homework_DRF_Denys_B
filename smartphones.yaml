@@ -1,0 +1,69 @@
+smartphones:
+  - brand: Apple
+    model: iPhone 15 Pro
+    os: iOS 17
+    screen:
+      size_inches: 6.1
+      resolution: "2556x1179"
+      type: OLED
+    camera:
+      rear: "48MP + 12MP + 12MP"
+      front: "12MP"
+    battery:
+      capacity_mAh: 3274
+      fast_charging: true
+    storage:
+      - 128GB
+      - 256GB
+      - 512GB
+      - 1TB
+    chipset: A17 Pro
+    release_date: 2023-09-22
+    has_5g: true
+    water_resistance: IP68
+    price_usd: 999
+
+  - brand: Samsung
+    model: Galaxy S24 Ultra
+    os: Android 14
+    screen:
+      size_inches: 6.8
+      resolution: "3088x1440"
+      type: Dynamic AMOLED 2X
+    camera:
+      rear: "200MP + 12MP + 10MP + 10MP"
+      front: "12MP"
+    battery:
+      capacity_mAh: 5000
+      fast_charging: true
+    storage:
+      - 256GB
+      - 512GB
+      - 1TB
+    chipset: Snapdragon 8 Gen 3
+    release_date: 2024-01-17
+    has_5g: true
+    water_resistance: IP68
+    price_usd: 1199
+
+  - brand: OnePlus
+    model: OnePlus 13
+    os: Android 15 (OxygenOS)
+    screen:
+      size_inches: 6.7
+      resolution: "3168x1440"
+      type: AMOLED LTPO
+    camera:
+      rear: "50MP + 48MP + 64MP"
+      front: "32MP"
+    battery:
+      capacity_mAh: 5400
+      fast_charging: true
+    storage:
+      - 256GB
+      - 512GB
+    chipset: Snapdragon 8 Gen 4
+    release_date: 2025-08-01
+    has_5g: true
+    water_resistance: IP65
+    price_usd: 899
